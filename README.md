@@ -1,20 +1,20 @@
 # Hey Everyone! I'm [Alex Viard](https://github.com/AlexViard) <img src="assets/gifs/nyan-cat.gif" width="100px">
 <br><br>
+
 <a href="https://twitter.com/AlexDevv_">
-  <img align="left" alt="AlexViard Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <img align="left" height="27px" alt="AlexViard Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 <a href="www.linkedin.com/in/alex-viard">
-  <img align="left" alt="AlexViard Linkedin" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="left" height="27px" alt="AlexViard Linkedin" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/AlexViard">
-  <img align="left" alt="AlexViard Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="left" height="27px" alt="AlexViard Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="www.instagram.com/alex.devv_">
-  <img align="left" alt="AlexViard Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" height="27px" alt="AlexViard Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 <a href="mailto:alex-viard@hotmail.fr">
-  <img align="left" alt="AlexViard Gmail" width="100px" src="https://img.shields.io/badge/outlook-EA4335?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img align="left" height="27px" alt="AlexViard Outlook" width="100px" src="https://img.shields.io/badge/outlook-0072C6?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
 
 <br><br>
@@ -50,63 +50,58 @@
 
 
 <span>
-  <img src="assets/imgs/React-icon.svg" alt="drawing" width="50"/>
+  <img src="assets/imgs/React-icon.svg" alt="drawing" width="70"/>
   <img src="assets/imgs/redux.svg" alt="drawing" width="50"/>
   <img src="assets/imgs/html.svg" alt="drawing" width="50"/>
   <img src="assets/imgs/css.svg" alt="drawing" width="50"/>
-  <img src="assets/imgs/Node.js_logo.svg" alt="drawing" width="50"/>
+  <img src="assets/imgs/Node.js_logo.svg" alt="drawing" width="80"/>
   <img src="assets/imgs/javascript.svg" alt="drawing" width="50"/>
   <img src="assets/imgs/ruby_logo.svg" alt="drawing" width="50"/>
-  <img src="assets/imgs/Ruby_On_Rails_Logo.svg" alt="drawing" width="50"/>
+  <img src="assets/imgs/Ruby_On_Rails_Logo.svg" alt="drawing" width="90"/>
   <img src="assets/imgs/Postgresql_elephant.svg" alt="drawing" width="50"/>
 </span>
     
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
-![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Qwiklabs](https://img.shields.io/badge/Qwiklabs-F5CD0E?style=flat-square&logo=Qwiklabs&logoColor=800000)
+![Trello](https://img.shields.io/badge/Trello-007AC0?style=flat-square&logo=Trello&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-4688F4?style=flat-square&logo=google-drive&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
-  
+
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
+  <img src="assets/imgs/trello.svg" alt="drawing" width="100"/>
+  <img src="assets/imgs/drive.svg" alt="drawing" width="50"/>
+  <img src="assets/imgs/github-icon-1.svg" alt="drawing" width="50"/>
+  <img src="assets/imgs/heroku-4.svg" alt="drawing" width="40"/>
+  <img src="assets/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
+  <img src="assets/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
+  <img src="assets/imgs/git-icon.svg" alt="drawing" width="40"/>
 </span>
 
 <hr>
   
 ### Github Stats
-  
-<p align="center">
-  <a href="https://github.com/amandewatnitrr"><span>
-
-  [![AlexViard GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexViard&show_icons=true&theme=tokyonight)](https://github.com/AlexViard)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexViard&layout=compact)](https://github.com/AlexViard)
-    </span></a>
-</p>
-  
+    
+  <div>
+    <p align="center">
+          <img height="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=AlexViard&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+          <br>
+          <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexViard&layout=compact"/>
+    </p>
+  </div>
 <br>
 
-<img align="center" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
+<p align="center"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" /></p>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AlexViard/count.svg" />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </p>
+
   
 ![](assets/imgs/bottom_header.svg)
