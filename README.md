@@ -1,5 +1,5 @@
 # Hey Everyone! I'm [Alex Viard](https://github.com/AlexViard) <img src="assets/gifs/nyan-cat.gif" width="100px">
-<br><br>
+<br>
 
 <a href="https://twitter.com/AlexDevv_">
   <img align="left" height="27px" alt="AlexViard Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
@@ -18,6 +18,7 @@
 </a>
 
 <br><br>
+
 ![](assets/imgs/header.png)
 
 ## <p align="center"><h4 align="center"><samp> Developer Fullstack JavaScript (React/Node) </samp></h4></p>
@@ -87,11 +88,9 @@
 ### Github Stats
     
   <div>
-    <p align="center">
           <img height="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=AlexViard&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
           <br>
           <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexViard&layout=compact"/>
-    </p>
   </div>
 <br>
 
