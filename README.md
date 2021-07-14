@@ -86,13 +86,17 @@
 <hr>
   
 ### Github Stats
-    
-  <div>
-          <img height="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=AlexViard&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-          <br>
-          <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexViard&layout=compact"/>
-  </div>
+  <p align="center">
+  <a href="https://github.com/AlexViard"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=AlexViard&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&tokyonight" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexViard&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexViard&theme=radical" />
+    </span></a>
+</p>
 <br>
+
+
 
 <p align="center"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" /></p>
 
