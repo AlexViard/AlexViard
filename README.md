@@ -27,7 +27,7 @@
 <img align="right" src="assets/gifs/rick-&-morty.gif" width="40%"/>
   <br>
 
-- 👷 <samp>See my portfolio [here](#).
+- 👷 <samp>See my portfolio [here](https://alex-viard.netlify.app/).
 - 🔭 <samp>I love the podcast of Harry JMG, Benjamin Code and Grafikart
 - 💬 <samp>Ask me about JavaScript and React!
 - 📫 <samp>How to reach me: mail, telephone and website.
